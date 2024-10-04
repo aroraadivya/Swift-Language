@@ -12,4 +12,4 @@ stockPrice = 55
 print(stockPrice)
 
 //stockPrice = "divya"
-print("can not assign data int to variable")
+print("can not assign data int to string)
