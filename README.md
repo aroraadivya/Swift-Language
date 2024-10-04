@@ -1,6 +1,5 @@
 # Swift-Language
 
-Summary
 Variables and Constants 
 
 1. Variables and Constants are used to keep track of your data within the app.
