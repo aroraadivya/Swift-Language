@@ -59,6 +59,11 @@ Basic Operators
 
 If Statement
 
-<p>if condition {</p>
-    <p>//some code</p>  
-<p>}</p>
+if condition {<br>
+    /some code<br>
+}
+
+<hr>
+
+Else If Clause
+
