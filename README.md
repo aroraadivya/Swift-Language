@@ -50,3 +50,9 @@ Basic Operators
 
 9. Decrement operators
    a -= 1
+
+If Statement
+
+if condition {
+      //some code
+}
