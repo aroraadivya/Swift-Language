@@ -29,3 +29,8 @@ print(ceil(d))
 //round off(down)
 floor(d)
 print(floor(d))
+
+//a = a+1
+//increment operator
+a += 1
+print(a)
