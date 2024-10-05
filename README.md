@@ -10,6 +10,8 @@ Variables and Constants
 6. When you reassign data to a variable, it must be the same type as the initial Data type.
 7. Value of variables can be changed, but not constant's.
 
+<hr> 
+
 Data Types
 
 1. String- piece of text (var str:String = "Divya").
@@ -17,6 +19,8 @@ Data Types
 3. Float- decimal numbers (var isFloat:Float = 0.6).
 4. Double- large decimal numbers (var isDouble:Double = 0.8).
 5. Bool- true or false (var isBool:Bool = true).
+
+<hr>
 
 Basic Operators
 
@@ -50,6 +54,8 @@ Basic Operators
 
 9. Decrement operators
    a -= 1
+
+<hr> 
 
 If Statement
 
