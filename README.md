@@ -18,3 +18,35 @@ Data Types
 4. Double- large decimal numbers (var isDouble:Double = 0.8).
 5. Bool- true or false (var isBool:Bool = true).
 
+Basic Operators
+
+1. print(a+b)
+   print(a-b)
+   print(a*b)
+   print(a/b)
+
+3. //we can do something like this
+   print(a*b*c)
+
+4. power function
+   pow(2, 3)
+   print(pow(2, 3))
+
+5. square root
+   sqrt(4)
+   print(sqrt(4))
+
+6. round off
+   ceil(d)
+   print(ceil(d))
+
+7. //round off(down)
+   floor(d)
+   print(floor(d))
+
+8. //a = a+1
+   increment operator
+   a += 1
+
+9. Decrement operators
+   a -= 1
