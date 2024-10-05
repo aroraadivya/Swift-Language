@@ -70,6 +70,6 @@ Else If Clause
 if condition1 {<br>
     //code<br>
 }<br>
-else if condition2{<br>
+else if condition2 {<br>
     //code<br>
 }
