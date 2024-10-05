@@ -53,6 +53,6 @@ Basic Operators
 
 If Statement
 
-if condition {
+<p>if condition {
       //some code
-}
+}</p>
