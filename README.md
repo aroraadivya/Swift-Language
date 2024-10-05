@@ -73,3 +73,17 @@ if condition1 {<br>
 else if condition2 {<br>
     //code<br>
 }
+
+<hr>
+
+Else Clause
+
+if condition1 {<br>
+      //code<br>
+}<br>
+else if condition2 {<br>
+   //code<br>
+}<br>
+else {<br>
+   //code<br>
+}
