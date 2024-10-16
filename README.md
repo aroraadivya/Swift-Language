@@ -95,3 +95,20 @@ Key points:-
 1. Use if statements to conditionally execute code.
 2. Add alternative conditions with the else if clause.
 3. Use the else clause as a final alternative that will execute if none of conditions are true.
+
+<hr>
+
+Switch Case:-
+
+Switch value to consider{ <br>
+case value1: <br>
+     //some code <br>
+case value2: <br>
+     //some code <br>
+default: <br>
+     //some code <br>
+}
+
+<hr>
+
+
