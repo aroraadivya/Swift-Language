@@ -111,4 +111,13 @@ default: <br>
 
 <hr>
 
+Loops (repeat block of code multiple times):-
+
+For In Loop:-
+
+for counter in lower...upper { <br>
+   //some code <br>
+} <br>
+
+Tip- can replace counter with underscore if do not want to use counter
 
