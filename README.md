@@ -87,4 +87,11 @@ else if condition2 {<br>
 else {<br>
    //code<br>
 }
+
 <hr>
+
+Key points:-
+
+1. Use if statements to conditionally execute code.
+2. Add alternative conditions with the else if clause.
+3. Use the else clause as a final alternative that will execute if none of conditions are true.
